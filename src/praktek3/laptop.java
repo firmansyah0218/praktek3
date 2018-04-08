@@ -6,4 +6,14 @@ public class laptop extends komputer {
     void throttle(){
         System.out.println("laptop pang..");
     }
+
+    public String getMerklaptop() {
+        return merklaptop;
+    }
+
+    public void setMerklaptop(String merklaptop) {
+        this.merklaptop = merklaptop;
+    }
+    
+    
 }
