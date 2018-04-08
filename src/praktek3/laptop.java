@@ -1,19 +1,19 @@
 package praktek3;
 
 public class laptop extends komputer {
-    private String merklaptop;
+    private String warnalaptop;
     
     void throttle(){
         System.out.println("laptop pang..");
     }
 
-    public String getMerklaptop() {
-        return merklaptop;
+    public String getWarnalaptop() {
+        return warnalaptop;
     }
 
-    public void setMerklaptop(String merklaptop) {
-        this.merklaptop = merklaptop;
+    public void setWarnalaptop(String warnalaptop) {
+        this.warnalaptop = warnalaptop;
     }
-    
+
     
 }
