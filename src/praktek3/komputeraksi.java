@@ -8,5 +8,12 @@ public class komputeraksi {
         k.setHarga(4000000);
         
         k.cetakInfo();
+        
+        System.out.println("Merknya \t:");
+        System.out.println(k.getMerk());
+        System.out.println("Spesifikasi \t:");
+        System.out.println(k.getSpesifikasi());
+        System.out.println("Harganya \t:");
+        System.out.println(k.getHarga());
     }
 }
