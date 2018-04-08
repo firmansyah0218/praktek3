@@ -1,9 +1,9 @@
 package praktek3;
 
 public class komputer {
-    String merk;
-    String spesifikasi;
-    double harga;
+    private String merk;
+    private String spesifikasi;
+    private double harga;
     
     
     void cetakInfo(){
