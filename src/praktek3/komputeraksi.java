@@ -5,7 +5,7 @@ public class komputeraksi {
         komputer k = new komputer();
         k.setMerk("acer");
         k.setSpesifikasi("intel inside, 3gb");
-        k.setHarga(4000000);
+        k.setHarga(10000000);
         
         k.cetakInfo();
         
